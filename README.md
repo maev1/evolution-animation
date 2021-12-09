@@ -5,19 +5,23 @@
 
 ### Au contraire de ce que l'on pourrait penser, l’animation à fait son apparition bien avant le cinéma, soit au 19e siècle. En effet, l'animation provient principalement d'Europe et a beaucoup évolué en Asie ainsi qu'ailleurs dans le monde. L'animation a premièrement été présentée au théâtre, à l’aide de différents jouets optiques.
 
-### Parmi ses inventions, on retrouve le thaumatrope de John Ayrton Paris qui permet la fusion de deux images à l'aide d'un mouvement effectué très rapidement.
 
 ## Le thaumatrope
+
+### Parmi ses inventions, on retrouve le thaumatrope de John Ayrton Paris qui permet la fusion de deux images à l'aide d'un mouvement effectué très rapidement.
+
 ![thaumatrope](https://user-images.githubusercontent.com/94126495/145142993-0f47b32d-ba3c-41cd-8ef8-dbe381edad4a.jpg)
+
+## Le phénakistiscope
 
 ### Le phénakistiscope de Joseph Plateau inventé en 1832 qui permet l'animation de plus d'images.
 
-## Le phénakistiscope
 ![phena](https://user-images.githubusercontent.com/94126495/145143548-fb4298df-847b-4d9e-9ffc-c602d188df55.jpg)
+
+## Le zootrope
 
 ### Le zootrope de William George Horner créé en 1834 qui ressemble beaucoup au phénakistiscope.
 
-## Le zootrope
 ![gravure-zootrope](https://user-images.githubusercontent.com/94126495/145143721-7ee03188-1312-422c-83c6-83be6dba9ea9.jpg)
 
 ### Grâce à ses inventions, le théâtre a pris une autre forme surnommé le théâtre optique. Elles permettaient de rendre les présentations très stimulantes et ainsi d'attirer un grand public.
