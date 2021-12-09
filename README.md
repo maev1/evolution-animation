@@ -10,12 +10,12 @@
 ## Le thaumatrope
 ![thaumatrope](https://user-images.githubusercontent.com/94126495/145142993-0f47b32d-ba3c-41cd-8ef8-dbe381edad4a.jpg)
 
-### le phénakistiscope de Joseph Plateau, qui a été inventé en 1832 et permettait d'animer plus d'images.
+### Le phénakistiscope de Joseph Plateau, qui a été inventé en 1832 et permettait d'animer plus d'images.
 
 ## Le phénakistiscope
 ![phena](https://user-images.githubusercontent.com/94126495/145143548-fb4298df-847b-4d9e-9ffc-c602d188df55.jpg)
 
-### le zootrope de William George Horner, a été créé en 1834 et ressemblait beaucoup au phénakistiscope.
+### Le zootrope de William George Horner, a été créé en 1834 et ressemblait beaucoup au phénakistiscope.
 
 ## Le zootrope
 ![gravure-zootrope](https://user-images.githubusercontent.com/94126495/145143721-7ee03188-1312-422c-83c6-83be6dba9ea9.jpg)
