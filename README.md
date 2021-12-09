@@ -31,4 +31,4 @@
 ### En effet, l'animation provient principalement d'Europe et à beaucoup évolué en Asie et ailleurs dans le monde.
 ### L'animation est très diversifiée et se retrouve dans plusieurs domaines du multimédia comme la vidéo ainsi que les projections lumineuses, et bien encore d'autres.
 ### Elle peut être utilisée pour créer des effets, aider à l'acquisition des connaissances, faire des concepts pour des projets, etc.
-### Il est très facile de faire de l'animation et nous pouvons facilement trouver différents logiciels qui sont gratuits pour nous aider.
+### Il est très facile de faire de l'animation et nous pouvons facilement trouver différents logiciels tels que photoshop ou XD. Il y en a également d'autres qui sont offerts gratuitement.
