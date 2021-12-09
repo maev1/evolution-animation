@@ -23,3 +23,4 @@
 
 
 ## Les premières animations par ordinateur ont été faites vers 1970 par un étudiant en informatique. Celui-ci avait créé une version numérique de l’une de ses mains. Cette technique simule le mouvement par ordinateur pour créer automatiquement des images numériques donne donne l’impression qu’il y a des mouvements.
+![giphy](https://user-images.githubusercontent.com/94126495/145409749-5b00f388-13bb-4730-bbcb-6d1b41517677.gif)
